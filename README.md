@@ -13,14 +13,6 @@ GitHub: [Snackonevil](https://github.com/Snackonevil)
 
 ---
 
-## Table of Contents
-
--   [Installation](#installation)
--   [Usage](#usage)
--   [License](#license)
-
----
-
 ## License
 
 (MIT)
