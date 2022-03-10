@@ -9,7 +9,7 @@ GitHub: [Snackonevil](https://github.com/Snackonevil)
 
 ## Description
 
-[CODE]() | [APP]()
+[CODE](https://github.com/Snackonevil/GTBC-text-editor) | [APP](https://gtbc-text-editor.herokuapp.com/)
 
 ---
 
@@ -17,25 +17,7 @@ GitHub: [Snackonevil](https://github.com/Snackonevil)
 
 -   [Installation](#installation)
 -   [Usage](#usage)
--   [Contribute](#contribute)
--   [Test](#tests)
 -   [License](#license)
-
----
-
-## Installation
-
----
-
-## Usage
-
----
-
-## Contribute
-
----
-
-## Tests
 
 ---
 
